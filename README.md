@@ -1,19 +1,22 @@
 # Customer-Satisfaction
 Predicting Customer Satisfaction using ML
+
 ![enter image description here](https://raw.githubusercontent.com/Vishweshwar-satpute/Customer-Satisfaction/main/1.png)
 
 This project was created as a part of the INSAID projests.
 To predict customer is satisfied or not? based on the over-all flight-services provided to the customer.
-Inflight:
+### Inflight:
    wifi service, entertainment, Inflight service, 
    Cleanliness, Leg room service, Food and drink, Seat comfort
-other factors:
+### Other Factors:
    Flight Distance, Departure/Arrival time convenient, Ease of Online booking,
    Gate location, Online boarding, Baggage handling, Checkin service,
    Departure Delay in Minutes, Arrival Delay in Minutes.
    
    
-In this project we will be solving:
+   
+## In this project we will be solving:
+
 ![enter image description here](https://github.com/Vishweshwar-satpute/Customer-Satisfaction/blob/main/2.png)
 
 In this project we will be solving:
@@ -22,7 +25,8 @@ In this project we will be solving:
     We want to find a function that will predict the customer satisfaction?"
     
     
-Results:
+    
+## Results:
 
 ![enter image description here](https://github.com/Vishweshwar-satpute/Customer-Satisfaction/blob/main/3.png)
 
