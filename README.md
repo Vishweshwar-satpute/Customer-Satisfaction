@@ -3,7 +3,7 @@ Predicting Customer Satisfaction using ML
 
 ![enter image description here](https://raw.githubusercontent.com/Vishweshwar-satpute/Customer-Satisfaction/main/1.png)
 
-This project was created as a part of the INSAID projests.
+This project was created as a part of the INSAID projects.
 To predict customer is satisfied or not? based on the over-all flight-services provided to the customer.
 ### Inflight:
    wifi service, entertainment, Inflight service, 
