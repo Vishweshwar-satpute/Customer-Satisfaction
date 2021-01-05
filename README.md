@@ -15,7 +15,7 @@ To predict customer is satisfied or not? based on the over-all flight-services p
    
    
    
-## In this project we will be solving:
+### In this project we will be solving:
 
 ![enter image description here](https://github.com/Vishweshwar-satpute/Customer-Satisfaction/blob/main/2.png)
 
@@ -26,7 +26,7 @@ In this project we will be solving:
     
     
     
-## Results:
+### Results:
 
 ![enter image description here](https://github.com/Vishweshwar-satpute/Customer-Satisfaction/blob/main/3.png)
 
